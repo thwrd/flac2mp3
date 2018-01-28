@@ -1,7 +1,3 @@
-
-# flac2mp3 0.4, by Trent Howard
-# provided as is, whith no guarantee what so ever.
-#
 # This script requires LAME, FLAC and metaFLAC binaries. Be sure
 # to put them somewhere included in your $PATH variable
 # (eg. /usr/local/bin). If you don't have them, you can download
